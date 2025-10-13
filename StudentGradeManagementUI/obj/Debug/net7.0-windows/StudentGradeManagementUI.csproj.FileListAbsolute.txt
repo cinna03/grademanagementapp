@@ -1,0 +1,14 @@
+C:\Users\user\student-grade-management\student-grade-management\StudentGradeManagementUI\bin\Debug\net7.0-windows\StudentGradeManagementUI.exe
+C:\Users\user\student-grade-management\student-grade-management\StudentGradeManagementUI\bin\Debug\net7.0-windows\StudentGradeManagementUI.deps.json
+C:\Users\user\student-grade-management\student-grade-management\StudentGradeManagementUI\bin\Debug\net7.0-windows\StudentGradeManagementUI.runtimeconfig.json
+C:\Users\user\student-grade-management\student-grade-management\StudentGradeManagementUI\bin\Debug\net7.0-windows\StudentGradeManagementUI.dll
+C:\Users\user\student-grade-management\student-grade-management\StudentGradeManagementUI\bin\Debug\net7.0-windows\StudentGradeManagementUI.pdb
+C:\Users\user\student-grade-management\student-grade-management\StudentGradeManagementUI\obj\Debug\net7.0-windows\StudentGradeManagementUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\student-grade-management\student-grade-management\StudentGradeManagementUI\obj\Debug\net7.0-windows\StudentGradeManagementUI.AssemblyInfoInputs.cache
+C:\Users\user\student-grade-management\student-grade-management\StudentGradeManagementUI\obj\Debug\net7.0-windows\StudentGradeManagementUI.AssemblyInfo.cs
+C:\Users\user\student-grade-management\student-grade-management\StudentGradeManagementUI\obj\Debug\net7.0-windows\StudentGradeManagementUI.csproj.CoreCompileInputs.cache
+C:\Users\user\student-grade-management\student-grade-management\StudentGradeManagementUI\obj\Debug\net7.0-windows\StudentGradeManagementUI.dll
+C:\Users\user\student-grade-management\student-grade-management\StudentGradeManagementUI\obj\Debug\net7.0-windows\refint\StudentGradeManagementUI.dll
+C:\Users\user\student-grade-management\student-grade-management\StudentGradeManagementUI\obj\Debug\net7.0-windows\StudentGradeManagementUI.pdb
+C:\Users\user\student-grade-management\student-grade-management\StudentGradeManagementUI\obj\Debug\net7.0-windows\StudentGradeManagementUI.genruntimeconfig.cache
+C:\Users\user\student-grade-management\student-grade-management\StudentGradeManagementUI\obj\Debug\net7.0-windows\ref\StudentGradeManagementUI.dll

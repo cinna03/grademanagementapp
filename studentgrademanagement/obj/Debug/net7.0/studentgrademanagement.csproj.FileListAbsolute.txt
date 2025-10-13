@@ -1,0 +1,14 @@
+C:\Users\user\student-grade-management\student-grade-management\studentgrademanagement\bin\Debug\net7.0\studentgrademanagement.exe
+C:\Users\user\student-grade-management\student-grade-management\studentgrademanagement\bin\Debug\net7.0\studentgrademanagement.deps.json
+C:\Users\user\student-grade-management\student-grade-management\studentgrademanagement\bin\Debug\net7.0\studentgrademanagement.runtimeconfig.json
+C:\Users\user\student-grade-management\student-grade-management\studentgrademanagement\bin\Debug\net7.0\studentgrademanagement.dll
+C:\Users\user\student-grade-management\student-grade-management\studentgrademanagement\bin\Debug\net7.0\studentgrademanagement.pdb
+C:\Users\user\student-grade-management\student-grade-management\studentgrademanagement\obj\Debug\net7.0\studentgrademanagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\student-grade-management\student-grade-management\studentgrademanagement\obj\Debug\net7.0\studentgrademanagement.AssemblyInfoInputs.cache
+C:\Users\user\student-grade-management\student-grade-management\studentgrademanagement\obj\Debug\net7.0\studentgrademanagement.AssemblyInfo.cs
+C:\Users\user\student-grade-management\student-grade-management\studentgrademanagement\obj\Debug\net7.0\studentgrademanagement.csproj.CoreCompileInputs.cache
+C:\Users\user\student-grade-management\student-grade-management\studentgrademanagement\obj\Debug\net7.0\studentgrademanagement.dll
+C:\Users\user\student-grade-management\student-grade-management\studentgrademanagement\obj\Debug\net7.0\refint\studentgrademanagement.dll
+C:\Users\user\student-grade-management\student-grade-management\studentgrademanagement\obj\Debug\net7.0\studentgrademanagement.pdb
+C:\Users\user\student-grade-management\student-grade-management\studentgrademanagement\obj\Debug\net7.0\studentgrademanagement.genruntimeconfig.cache
+C:\Users\user\student-grade-management\student-grade-management\studentgrademanagement\obj\Debug\net7.0\ref\studentgrademanagement.dll
