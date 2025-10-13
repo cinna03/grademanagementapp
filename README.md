@@ -1,4 +1,4 @@
-# Student Grade Management System
+# Grade Management App
 
 ## Overview
 This is a **Student Grade Management System** written in C#.  
@@ -27,13 +27,3 @@ It allows users to manage student records and grades efficiently while practicin
 - **Exception Handling:** Input validation using `int.TryParse` and logical checks to prevent errors.
 
 ---
-
-## How to Run
-
-1. **Clone the repository**
-```bash
-https://github.com/audreym101/student-grade-management.git
-dotnet run --project StudentGradeManagementUI/StudentGradeManagementUI.csproj
----
-## Demo video
-https://www.loom.com/share/1656025f2b4942eea0558380a64206eb?sid=c34fb62f-08ba-4e36-9244-dd99eb044ba1
