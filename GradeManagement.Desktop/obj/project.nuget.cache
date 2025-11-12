@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JtCkUhhbJ4Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\grademanagementapp-1\\GradeManagement.Desktop\\GradeManagement.Desktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.57\\microsoft.windows.sdk.net.ref.10.0.17763.57.nupkg.sha512"
+  ],
+  "logs": []
+}

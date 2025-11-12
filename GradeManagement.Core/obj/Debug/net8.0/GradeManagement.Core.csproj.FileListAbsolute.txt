@@ -1,0 +1,12 @@
+C:\Users\PC\grademanagementapp-1\GradeManagement.Core\bin\Debug\net8.0\GradeManagement.Core.deps.json
+C:\Users\PC\grademanagementapp-1\GradeManagement.Core\bin\Debug\net8.0\GradeManagement.Core.dll
+C:\Users\PC\grademanagementapp-1\GradeManagement.Core\bin\Debug\net8.0\GradeManagement.Core.pdb
+C:\Users\PC\grademanagementapp-1\GradeManagement.Core\obj\Debug\net8.0\GradeManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\grademanagementapp-1\GradeManagement.Core\obj\Debug\net8.0\GradeManagement.Core.AssemblyInfoInputs.cache
+C:\Users\PC\grademanagementapp-1\GradeManagement.Core\obj\Debug\net8.0\GradeManagement.Core.AssemblyInfo.cs
+C:\Users\PC\grademanagementapp-1\GradeManagement.Core\obj\Debug\net8.0\GradeManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\PC\grademanagementapp-1\GradeManagement.Core\obj\Debug\net8.0\GradeManagement.Core.sourcelink.json
+C:\Users\PC\grademanagementapp-1\GradeManagement.Core\obj\Debug\net8.0\GradeManagement.Core.dll
+C:\Users\PC\grademanagementapp-1\GradeManagement.Core\obj\Debug\net8.0\refint\GradeManagement.Core.dll
+C:\Users\PC\grademanagementapp-1\GradeManagement.Core\obj\Debug\net8.0\GradeManagement.Core.pdb
+C:\Users\PC\grademanagementapp-1\GradeManagement.Core\obj\Debug\net8.0\ref\GradeManagement.Core.dll
